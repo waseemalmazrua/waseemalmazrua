@@ -14,7 +14,7 @@ I’m passionate about harnessing the power of data to transform healthcare and 
 ---
 
 ## 🚀 Featured Projects
-- 🏥 **Hospital Readmission Prediction:** Using logistic regression & XGBoost to predict 30-day readmissions.
+- 🏥 **Hospital Readmission Prediction:** Using logistic regression to predict 30-day readmissions.
 - 📊 **Power BI Dashboards:** Visualizing patient satisfaction, hospital KPIs, and clinical metrics.
 - 🔬 **SPSS Studies:** Logistic regression, ANOVA & complex case analyses on real healthcare datasets.
 - 🤖 **AI Projects:** From image classification to sentiment analysis, driven by healthcare applications.
