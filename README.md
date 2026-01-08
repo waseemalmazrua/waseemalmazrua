@@ -27,7 +27,7 @@ I specialize in building **real-world AI systems** that bridge clinical knowledg
   * 3D CT & MRI workflows (NIfTI / DICOM)
 * 🦺 **PPE Monitoring System**
 
-  * Real-time detection & tracking using **YOLO (v8/v9)** and multi-object tracking
+  * Real-time detection & tracking using **YOLO (v8/v9,11)** and multi-object tracking
   * Safety compliance for industrial and healthcare environments
 * 😷 **Face Mask Detection**
 
