@@ -2,7 +2,7 @@
 ---
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I’m **Waseem** — a **Registered Nurse turned Computer Vision & Healthcare AI Engineer** 🧠🩺
+Hi there! I’m **Waseem** — a **Registered Nurse turned Computer Vision & Healthcare Machine Learning Engineer** 🧠🩺
 I specialize in building **real-world AI systems** that bridge clinical knowledge with advanced machine learning, with a strong focus on **computer vision and medical imaging**.
 
 ---
