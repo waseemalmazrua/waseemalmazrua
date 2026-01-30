@@ -1,6 +1,7 @@
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/header_image.png" width="900"/>
-</p>
+</p>](https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/images/header_image.png
+)
 
 <img align="right" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/octocat-anime.gif" width="150"/>
 
