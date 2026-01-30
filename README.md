@@ -1,8 +1,10 @@
-<a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Waseem%20Almazrua&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</a>
+<p align="center">
+  <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
+    <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/header_image.png" width="900"/>
+  </a>
+</p>
 
-<img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="140"/>
+<img align="right" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/octocat-anime.gif" width="150"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/waseemalmazrua?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/waseemalmazrua?style=social)
@@ -14,9 +16,9 @@
 ## 👋 Hi, I'm Waseem Almazrua
 
 🩺 **Registered Nurse → 🤖 Computer Vision & Healthcare Machine Learning Engineer**  
-📍 Healthcare AI • Medical Imaging • Applied Machine Learning
+📍 Healthcare AI • Medical Imaging • Applied Machine Learning  
 
-> I build **production-ready AI systems** that sit at the intersection of  
+> I build **production-ready AI systems** at the intersection of  
 > **clinical expertise and computer vision**.
 
 ---
@@ -41,7 +43,7 @@
 ### 🦺 PPE Monitoring & Safety Systems
 - YOLO v8 / v9 / v11  
 - Detection + Multi-Object Tracking  
-- Healthcare & Industrial safety use-cases  
+- Healthcare & industrial safety use-cases  
 
 ### 😷 Face Mask Detection (Healthcare-oriented)
 - Multi-class detection  
@@ -49,21 +51,21 @@
 
 ---
 
-## 🧰 My Tech Stack
+## 🧰 Tech Stack
 
 ### 🧠 Computer Vision & AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow"/>
 </p>
 
 ### 🧪 Medical Imaging & ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn"/>
 </p>
 
 ### ⚙️ Engineering & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,fastapi,git,postgresql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,fastapi,git,postgresql"/>
 </p>
 
 ---
@@ -93,15 +95,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/Hi.gif" width="180"/>
+</p>
 
 <p align="center">
-<i>“Healthcare + AI is not the future. It’s the present.”</i>
+  <i>“Healthcare + AI is not the future. It’s the present.”</i>
 </p>
