@@ -1,22 +1,24 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Waseem Almazrua</h1>
+<h1 align="center">Waseem Almazrua</h1>
 <h3 align="center">Computer Vision & Healthcare Machine Learning Engineer</h3>
 
 <p align="center">
-  🩺 Registered Nurse → 🤖 AI Engineer  
-  <br>
-  Medical Imaging • Computer Vision • Applied ML
+  <em>
+    Registered Nurse → AI Engineer<br/>
+    Medical Imaging • Computer Vision • Applied Machine Learning
+  </em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waseemalmazrua/">
-    <img src="https://img.shields.io/badge/LinkedIn-Waseem-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin">
   </a>
+  &nbsp;
   <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-Website-2E7D32?style=flat">
   </a>
 </p>
 
@@ -24,35 +26,38 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="180"/>
 
-- 🩺 **Registered Nurse** with real clinical experience  
-- 🧠 Transitioned into **AI & Computer Vision**
-- 🔬 Specialized in **Medical Imaging (CT / MRI)**
-- 🚀 Built **33+ applied projects**
-- 💡 Focused on **real-world, production-ready AI systems**
+I design and build **production-ready AI systems** at the intersection of  
+**clinical expertise** and **computer vision**.
+
+- 🩺 Background as a **Registered Nurse** with real clinical exposure  
+- 🧠 Transitioned into **AI & Machine Learning**, specializing in **Computer Vision**  
+- 🔬 Strong focus on **Medical Imaging (CT / MRI)**  
+- 🚀 **33+ applied projects** across healthcare analytics and AI engineering  
+- 💡 Passionate about turning complex medical data into **actionable intelligence**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
 ### 🧠 Medical Image Segmentation
-- U-Net • nnU-Net • MONAI
+- U-Net, nnU-Net, MONAI
 - 2D & 3D CT / MRI pipelines
-- NIfTI & DICOM workflows
+- NIfTI & DICOM preprocessing and inference
 
-### 🦺 PPE Monitoring System
-- YOLO v8 / v9 / v11
-- Detection + Tracking
-- Healthcare & Industrial Safety
+### 🦺 PPE Monitoring & Safety Systems
+- YOLO (v8 / v9 / v11)
+- Real-time detection and multi-object tracking
+- Designed for healthcare & industrial environments
 
 ### 😷 Face Mask Detection
-- Hospital-oriented multi-class detection
-- Robust to occlusion & equipment
+- Healthcare-oriented multi-class detection
+- Robust to occlusion and medical equipment
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker,fastapi,git" />
@@ -66,42 +71,38 @@
 
 ## 📊 Healthcare Analytics
 
-- 🏥 Hospital Readmission Prediction
-- 📊 Power BI Dashboards (Healthcare KPIs)
-- 🔬 SPSS: Logistic Regression, ANOVA
+- 🏥 Hospital readmission risk prediction (Logistic Regression)
+- 📊 Power BI dashboards for clinical KPIs
+- 🔬 SPSS: ANOVA, regression, statistical case studies
 
 ---
 
 ## 🔬 Current Focus
 
-- 🧠 3D Medical Image Segmentation
-- 🦺 Real-time CV for Safety & Healthcare
-- 🧪 Research-grade pipelines (PyTorch + MONAI)
-- 🚀 Production ML Systems (not demos)
+- Advanced **3D medical image segmentation**
+- Real-time computer vision for **healthcare & safety**
+- Research-grade pipelines using **PyTorch & MONAI**
+- Scalable, maintainable **production ML systems**
 
 ---
 
 ## 🌟 Mission
 
 > To build **intelligent computer vision systems**  
-> that truly understand healthcare and make a real impact.
+> that truly understand healthcare and deliver real-world impact.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
-</p>
-
-<p align="center">
-  <i>“Healthcare + AI is not the future. It's the present.”</i>
+  <i>“Healthcare + AI is not the future. It’s the present.”</i>
 </p>
