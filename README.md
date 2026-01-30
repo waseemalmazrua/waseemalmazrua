@@ -1,6 +1,6 @@
 <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-  <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/images/header_image.png" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Waseem%20Almazrua&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
 
 <img align="right" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/images/octocat-anime.gif" width="150"/>
 
