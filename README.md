@@ -1,10 +1,13 @@
 <p align="center">
-  <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-    <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/header_image.png" width="900"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/header_image.png" width="900"/>
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/octocat-anime.gif" width="150"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/Hi.gif" width="180"/>
+</p>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/waseemalmazrua?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/waseemalmazrua?style=social)
