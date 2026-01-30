@@ -1,95 +1,107 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+</p>
 
----
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Waseem Almazrua</h1>
+<h3 align="center">Computer Vision & Healthcare Machine Learning Engineer</h3>
 
-Hi there! I’m **Waseem** — a **Registered Nurse turned Computer Vision & Healthcare Machine Learning Engineer** 🧠🩺
-I specialize in building **real-world AI systems** that bridge clinical knowledge with advanced machine learning, with a strong focus on **computer vision and medical imaging**.
+<p align="center">
+  🩺 Registered Nurse → 🤖 AI Engineer  
+  <br>
+  Medical Imaging • Computer Vision • Applied ML
+</p>
 
----
-
-## 🩺 About Me
-
-* 🩺 **Registered Nurse** with hands-on clinical experience and deep understanding of healthcare workflows.
-* 🧠 Transitioned into **Artificial Intelligence & Computer Vision**, applying ML to real clinical and safety challenges.
-* 🔬 Specialized in **Medical Imaging & Computer Vision**:
-
-  * Segmentation, detection, and classification using CNN-based architectures.
-* 🚀 Built **33+ applied projects** across healthcare analytics, machine learning, and AI systems.
-* 💡 Passionate about translating complex data into **actionable, life-impacting insights**.
-
----
-
-## 🚀 Featured Computer Vision & AI Projects
-
-* 🧠 **Medical Image Segmentation**
-
-  * Liver, spine, and breast imaging using **U-Net, nnU-Net, MONAI**
-  * 3D CT & MRI workflows (NIfTI / DICOM)
-* 🦺 **PPE Monitoring System**
-
-  * Real-time detection & tracking using **YOLO (v8/v9,11)** and multi-object tracking
-  * Safety compliance for industrial and healthcare environments
-* 😷 **Face Mask Detection**
-
-  * Multi-class detection tailored for hospital settings
-* 🤖 **Applied AI Systems**
-
-  * Image classification, prediction pipelines, and deployment-ready models
+<p align="center">
+  <a href="https://www.linkedin.com/in/waseemalmazrua/">
+    <img src="https://img.shields.io/badge/LinkedIn-Waseem-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 📊 Healthcare Data Science & Analytics Projects
+## 🧠 About Me
 
-* 🏥 **Hospital Readmission Prediction**
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200"/>
 
-  * Logistic regression models for 30-day readmission risk
-* 📊 **Power BI Healthcare Dashboards**
-
-  * Patient satisfaction, hospital KPIs, and clinical performance metrics
-* 🔬 **SPSS Statistical Studies**
-
-  * Logistic regression, ANOVA, and advanced healthcare case analyses
+- 🩺 **Registered Nurse** with real clinical experience  
+- 🧠 Transitioned into **AI & Computer Vision**
+- 🔬 Specialized in **Medical Imaging (CT / MRI)**
+- 🚀 Built **33+ applied projects**
+- 💡 Focused on **real-world, production-ready AI systems**
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Featured Projects
 
-### **Computer Vision & AI**
+### 🧠 Medical Image Segmentation
+- U-Net • nnU-Net • MONAI
+- 2D & 3D CT / MRI pipelines
+- NIfTI & DICOM workflows
 
-* PyTorch • CNNs • U-Net • nnU-Net
-* YOLO (Detection & Segmentation)
-* Medical Imaging (CT, MRI, NIfTI, DICOM)
-* Object Detection • Segmentation • Tracking
+### 🦺 PPE Monitoring System
+- YOLO v8 / v9 / v11
+- Detection + Tracking
+- Healthcare & Industrial Safety
 
-### **Data & Analytics**
+### 😷 Face Mask Detection
+- Hospital-oriented multi-class detection
+- Robust to occlusion & equipment
 
-* Python • pandas • scikit-learn • SQL
-* Power BI • SPSS • Statistical Modeling
-* Exploratory Data Analysis (EDA)
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,docker,fastapi,git" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+---
+
+## 📊 Healthcare Analytics
+
+- 🏥 Hospital Readmission Prediction
+- 📊 Power BI Dashboards (Healthcare KPIs)
+- 🔬 SPSS: Logistic Regression, ANOVA
 
 ---
 
 ## 🔬 Current Focus
 
-* Medical Image Segmentation (2D & 3D)
-* Real-time Computer Vision for Healthcare & Safety
-* Research-grade AI pipelines using **PyTorch & MONAI**
-* Deployable, production-oriented ML systems
+- 🧠 3D Medical Image Segmentation
+- 🦺 Real-time CV for Safety & Healthcare
+- 🧪 Research-grade pipelines (PyTorch + MONAI)
+- 🚀 Production ML Systems (not demos)
 
 ---
 
-## 🌟 My Mission
+## 🌟 Mission
 
-To design and deploy **intelligent computer vision systems** that enhance clinical decision-making, improve patient safety, and accelerate data-driven transformation in healthcare.
-
----
-
-## 🌐 Connect with Me
-
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/waseemalmazrua/](https://www.linkedin.com/in/waseemalmazrua/)
-* 🌍 **Portfolio:** [https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/](https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/)
+> To build **intelligent computer vision systems**  
+> that truly understand healthcare and make a real impact.
 
 ---
 
-> *“I believe the future of healthcare lies at the intersection of clinical expertise and intelligent systems. My goal is to build AI that truly understands healthcare — and makes a difference.”*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <i>“Healthcare + AI is not the future. It's the present.”</i>
+</p>
