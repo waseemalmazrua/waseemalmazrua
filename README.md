@@ -1,71 +1,78 @@
-<h1 align="center">Waseem Almazrua</h1>
+<a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Waseem%20Almazrua&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</a>
 
-<h3 align="center">
-Computer Vision & Healthcare Machine Learning Engineer  
-</h3>
+<img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="140"/>
 
-<p align="center">
-Registered Nurse → AI Engineer  
-<br/>
-Medical Imaging • Computer Vision • Applied Machine Learning
-</p>
+![GitHub followers](https://img.shields.io/github/followers/waseemalmazrua?style=social)
+![GitHub stars](https://img.shields.io/github/stars/waseemalmazrua?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/waseemalmazrua/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat)](https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/waseemalmazrua/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-success?style=flat">
-  </a>
-</p>
+---
+
+## 👋 Hi, I'm Waseem Almazrua
+
+🩺 **Registered Nurse → 🤖 Computer Vision & Healthcare Machine Learning Engineer**  
+📍 Healthcare AI • Medical Imaging • Applied Machine Learning
+
+> I build **production-ready AI systems** that sit at the intersection of  
+> **clinical expertise and computer vision**.
 
 ---
 
 ## 🧠 About Me
 
-I design and build **production-ready AI systems** at the intersection of  
-**clinical expertise and computer vision**.
-
 - 🩺 Background as a **Registered Nurse** with real clinical exposure  
 - 🤖 Transitioned into **AI & Machine Learning**, specializing in **Computer Vision**  
 - 🔬 Strong focus on **Medical Imaging (CT / MRI)**  
-- 🚀 Built **33+ applied projects** across healthcare analytics and AI engineering  
-- 💡 Passionate about turning complex medical data into actionable intelligence  
+- 🚀 Built **33+ applied projects** across healthcare analytics & AI engineering  
+- 💡 Passionate about transforming complex medical data into actionable intelligence  
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Projects
 
 ### 🧠 Medical Image Segmentation
 - U-Net • nnU-Net • MONAI  
 - 2D & 3D CT / MRI pipelines  
-- NIfTI & DICOM preprocessing and inference  
+- NIfTI & DICOM preprocessing & inference  
 
 ### 🦺 PPE Monitoring & Safety Systems
 - YOLO v8 / v9 / v11  
-- Detection + Multi-object tracking  
-- Designed for healthcare & industrial safety  
+- Detection + Multi-Object Tracking  
+- Healthcare & Industrial safety use-cases  
 
 ### 😷 Face Mask Detection (Healthcare-oriented)
 - Multi-class detection  
-- Robust to occlusion and medical equipment  
+- Robust to occlusion & medical equipment  
 
 ---
 
-## 🛠 Technical Stack
+## 🧰 My Tech Stack
 
-**Computer Vision & AI**
-- PyTorch • CNNs • U-Net • nnU-Net  
-- YOLO (Detection & Segmentation)  
-- Medical Imaging (CT, MRI, NIfTI, DICOM)
+### 🧠 Computer Vision & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow" />
+</p>
 
-**Data & Analytics**
-- Python • pandas • scikit-learn • SQL  
-- Power BI • SPSS • Statistical Modeling  
+### 🧪 Medical Imaging & ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
 
-**Engineering**
-- FastAPI • Docker • Linux • Git  
-- Inference pipelines & production ML workflows  
+### ⚙️ Engineering & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,fastapi,git,postgresql" />
+</p>
+
+---
+
+## 📊 Healthcare Analytics
+
+- 🏥 Hospital Readmission Prediction (Logistic Regression)  
+- 📊 Power BI Dashboards (Healthcare KPIs)  
+- 🔬 SPSS: Logistic Regression, ANOVA, Statistical Analysis  
 
 ---
 
@@ -80,13 +87,21 @@ I design and build **production-ready AI systems** at the intersection of
 
 ## 🌟 Mission
 
-> To build intelligent computer vision systems  
-> that truly understand healthcare and make a real impact.
+> To build **intelligent computer vision systems**  
+> that truly understand healthcare and make a real-world impact.
 
 ---
 
 <p align="center">
-<i>
-“Healthcare + AI is not the future. It’s the present.”
-</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+<i>“Healthcare + AI is not the future. It’s the present.”</i>
 </p>
