@@ -1,6 +1,6 @@
 <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Waseem%20Almazrua&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Waseem%20Almazrua&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</a>
 
 <img align="right" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/images/octocat-anime.gif" width="150"/>
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Hi, I'm Waseem Almazrua
+## 👋 Hi, I'm **Waseem Almazrua**
 
 🩺 **Registered Nurse → 🤖 Computer Vision & Healthcare Machine Learning Engineer**  
 📍 Healthcare AI • Medical Imaging • Applied Machine Learning  
@@ -26,10 +26,10 @@
 ## 🧠 About Me
 
 - 🩺 Registered Nurse with real clinical experience  
-- 🤖 Specialized in Computer Vision & Healthcare AI  
-- 🔬 Medical Imaging (CT / MRI – 2D & 3D)  
-- 🚀 33+ applied projects (analytics + ML systems)  
-- 💡 Focused on real-world, deployable AI  
+- 🤖 Specialized in **Computer Vision & Healthcare AI**  
+- 🔬 Medical Imaging (**CT / MRI – 2D & 3D**)  
+- 🚀 **33+ applied projects** (analytics + ML systems)  
+- 💡 Focused on **real-world, deployable AI**
 
 ---
 
@@ -69,8 +69,8 @@
 
 ## 🔬 Current Focus
 
-- 3D Medical Image Segmentation  
-- Real-time CV for Healthcare & Safety  
+- Advanced **3D Medical Image Segmentation**  
+- Real-time **Computer Vision for Healthcare & Safety**  
 - PyTorch + MONAI research pipelines  
 - **Production ML systems (not demos)**  
 
@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-<i>“Healthcare + AI is not the future. It’s the present.”</i>
+  <i>“Healthcare + AI is not the future. It’s the present.”</i>
 </p>
