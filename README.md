@@ -1,17 +1,17 @@
 <h2 align="left">
 Hi 👋! My name is <b>Waseem Almazrua</b><br/>
-I'm a <b>Computer Vision & Healthcare ML Engineer</b>
+I'm a <b>Computer Vision & Healthcare ML Engineer</b>, from Saudi Arabia 🇸🇦
 </h2>
 
 ###
 
-<img align="right" height="100" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif"/>
 
 ###
 
 <p align="left">
 🩺 Registered Nurse → 🤖 AI Engineer <br/>
-📍 Healthcare AI • Medical Imaging • Production ML Systems
+Healthcare AI • Medical Imaging • Production ML Systems
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm a <b>Computer Vision & Healthcare ML Engineer</b>
 - 🩺 Registered Nurse with real clinical experience  
 - 🤖 Specialized in **Computer Vision & Healthcare AI**  
 - 🔬 Medical Imaging (**CT / MRI – 2D & 3D**)  
-- 🚀 **30+ applied projects** (Analytics + ML Systems)  
+- 🚀 **30+ applied projects** (Analytics + ML systems)  
 - 💡 Focused on **real-world, deployable AI (not demos)**  
 
 > I build <b>production-ready AI systems</b> at the intersection of  
@@ -61,7 +61,7 @@ I'm a <b>Computer Vision & Healthcare ML Engineer</b>
 - NIfTI & DICOM pipelines  
 
 ### 🦺 PPE & Safety Monitoring
-- YOLO v8 / v9 / v11  
+- YOLO v8 / v9  
 - Detection + Tracking  
 - Healthcare & Industrial use-cases  
 
@@ -101,13 +101,13 @@ I'm a <b>Computer Vision & Healthcare ML Engineer</b>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
