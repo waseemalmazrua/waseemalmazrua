@@ -23,8 +23,7 @@
 ┌─────────────────────────────────────────────────────┐
 │  🧠 Medical Image Segmentation   →  U-Net / MONAI   │
 │  🦺 PPE & Safety Detection       →  YOLO v8/v9/v11  │
-│  📊 Healthcare Analytics         →  Power BI / SPSS │
-│  🏥 30+ deployed projects. Not demos. Real systems.  │
+│  📊 Healthcare Analytics         →  Power BI / SPSS │ 
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -79,8 +78,3 @@ while alive:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&reversal=true&theme=cobalt" />
