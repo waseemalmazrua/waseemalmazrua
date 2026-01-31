@@ -1,25 +1,18 @@
-<a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Waseem%20Almazrua&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</a>
+<h2 align="left">
+Hi 👋! My name is <b>Waseem Almazrua</b><br/>
+I'm a <b>Computer Vision & Healthcare ML Engineer</b>
+</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/images/octocat-anime.gif" width="150"/>
+###
 
-![GitHub followers](https://img.shields.io/github/followers/waseemalmazrua?style=social)
-![GitHub stars](https://img.shields.io/github/stars/waseemalmazrua?style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/waseemalmazrua/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat)](https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/)
+<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" />
 
----
+###
 
-## 👋 Hi, I'm **Waseem Almazrua**
-
-🩺 **Registered Nurse → 🤖 Computer Vision & Healthcare Machine Learning Engineer**  
-📍 Healthcare AI • Medical Imaging • Applied Machine Learning  
-
-<img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/main/images/Hi.gif" width="80"/>
-
-> I build **production-ready AI systems** at the intersection of  
-> **clinical expertise and computer vision**.
+<p align="left">
+🩺 Registered Nurse → 🤖 AI Engineer <br/>
+📍 Healthcare AI • Medical Imaging • Production ML Systems
+</p>
 
 ---
 
@@ -28,8 +21,35 @@
 - 🩺 Registered Nurse with real clinical experience  
 - 🤖 Specialized in **Computer Vision & Healthcare AI**  
 - 🔬 Medical Imaging (**CT / MRI – 2D & 3D**)  
-- 🚀 **33+ applied projects** (analytics + ML systems)  
-- 💡 Focused on **real-world, deployable AI**
+- 🚀 **30+ applied projects** (Analytics + ML Systems)  
+- 💡 Focused on **real-world, deployable AI (not demos)**  
+
+> I build <b>production-ready AI systems</b> at the intersection of  
+> <b>clinical expertise and computer vision</b>.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+</div>
 
 ---
 
@@ -51,14 +71,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,numpy,pandas,sklearn,linux,docker,fastapi,git,postgresql" />
-</p>
-
----
-
 ## 📊 Healthcare Analytics
 
 - Hospital Readmission Prediction  
@@ -76,19 +88,25 @@
 
 ---
 
-## 🌟 Mission
+## 🌐 Connect With Me
 
-> To build **intelligent computer vision systems**  
-> that truly understand healthcare and create real impact.
+<div align="left">
+  <a href="https://www.linkedin.com/in/waseemalmazrua/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://aviztra.com/portfolio/waseem-almazrua-healthcare-data-statistical-analyst/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&color=2c5364&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waseemalmazrua&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalmazrua&theme=tokyonight"/>
 </p>
 
 ---
