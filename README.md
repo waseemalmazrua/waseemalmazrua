@@ -5,7 +5,7 @@ I'm a <b>Computer Vision & Healthcare ML Engineer</b>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" />
+<img align="right" height="100" src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" />
 
 ###
 
