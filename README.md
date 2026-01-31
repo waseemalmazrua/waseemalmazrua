@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏥 Waseem Almazrua
+#  Waseem Almazrua
 
-### 🩺 → 🤖 | Registered Nurse Turned AI Engineer
+### 🩺 → 🤖 | Registered Nurse Turned ML Engineer
 
 *Building production-ready AI systems at the intersection of clinical expertise and computer vision*
 
@@ -214,17 +214,7 @@ Tech Stack: Python | SPSS | Power BI | SQL | scikit-learn
 
 ---
 
-## 💡 Why My Work Matters
 
-Traditional AI engineers often build impressive models that fail in real clinical settings. As a former nurse who codes, I understand:
-
-✅ **Clinical Constraints**: Real hospital workflows, not idealized scenarios  
-✅ **Patient Safety**: Models that fail safely and transparently  
-✅ **Regulatory Requirements**: HIPAA, medical device standards  
-✅ **User Adoption**: Interfaces clinicians actually want to use  
-✅ **Production Readiness**: Systems that work 24/7, not just in demos  
-
----
 
 ## 🌐 Let's Connect
 
