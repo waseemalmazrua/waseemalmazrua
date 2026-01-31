@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: enderluh/readme-snake@v1
+        with:
+          github_user: waseemalmazrua
+          snake_head_color: "#00FFFF"
+          background_color: "#0d1117"
+          snake_color: "#00FFFF"
+          board_height: 8
+          board_width: 24
+      - uses: EndeRLoser/git-push@v4
+        with:
+          git_user: "GitHub Actions"
+          git_email: "github-actions@github.com"
+          branch: output
