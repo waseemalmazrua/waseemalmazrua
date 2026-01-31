@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" />
+
 <div align="center">
 <br>
 
@@ -38,9 +40,47 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
 > *"Healthcare + AI is not the future. It's the present."*
 
 </div>
+
+---
+
+### 📝 Latest on Medium
+
+<div align="center">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/0" alt="Medium post 1" width="100%" />
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/1" alt="Medium post 2" width="100%" />
+</a>
+
+</div>
+
+---
+
+### 😄 A Little About Me
+
+```python
+while alive:
+    if tired:
+        coffee()
+    if patient_needs_help:
+        be_a_nurse()      # Chapter 1
+    if world_needs_smarter_healthcare:
+        build_ai()        # Chapter 2  ← we are here
+    if model_is_overfitting:
+        cry_then_debug()
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&reversal=true&theme=cobalt" />
