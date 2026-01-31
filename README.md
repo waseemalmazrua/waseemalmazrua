@@ -2,7 +2,7 @@
 
 #  Waseem Almazrua
 
-### 🩺 → 🤖 | Registered Nurse Turned ML Engineer
+###  | Registered Nurse Turned ML Engineer
 
 *Building production-ready AI systems at the intersection of clinical expertise and computer vision*
 
@@ -10,13 +10,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseemalmazrua)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseeme900@gmail.com)
 
-**📍 Healthcare AI • Medical Imaging • Production ML Systems**
+** Healthcare AI • Medical Imaging • Production ML Systems**
 
 </div>
 
 ---
 
-## 🎯 Mission Statement
+##  Mission Statement
 
 > *"Healthcare + AI is not the future. It's the present."*
 
@@ -24,7 +24,7 @@ I bridge the gap between clinical reality and cutting-edge AI technology. With h
 
 ---
 
-## 🧠 Who I Am
+##  Who I Am
 
 ```python
 class WaseemAlmazrua:
@@ -84,9 +84,9 @@ class WaseemAlmazrua:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 Medical Image Segmentation
+###  Medical Image Segmentation
 
 **Precision diagnostics through advanced neural architectures**
 
