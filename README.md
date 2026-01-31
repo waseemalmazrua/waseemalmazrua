@@ -51,22 +51,6 @@
 
 ---
 
-### 📝 Latest on Medium
-
-<div align="center">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/0" alt="Medium post 1" width="100%" />
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/1">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@waseemalmazrua/1" alt="Medium post 2" width="100%" />
-</a>
-
-</div>
-
----
-
 ### 😄 A Little About Me
 
 ```python
@@ -82,5 +66,21 @@ while alive:
 ```
 
 ---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/waseemalmazrua/waseemalmazrua/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&reversal=true&theme=cobalt" />
