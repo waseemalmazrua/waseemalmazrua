@@ -4,7 +4,7 @@
 
 <h1>Waseem Almazrua</h1>
 
-<p>🩺 Registered Nurse → 🤖 Data Scientist / ML Eng </p>
+<p> Registered Nurse →  Data Scientist / ML Eng </p>
 
 <p><i>I used to save lives at the bedside.<br>Now I build the AI that does it at scale.</i></p>
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 😄 A Little About Me
+###  A Little About Me
 
 ```python
 while alive:
