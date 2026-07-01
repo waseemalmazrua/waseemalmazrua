@@ -2,7 +2,7 @@
 <br>
 <h1>Waseem Almazrua</h1>
 <p>Registered Nurse → AI Engineer</p>
-<p><i>I used to save lives at the bedside.<br>Now I build the AI agents that scale that care.</i></p>
+<p><i>I used to save lives at the bedside.<br>Now I build the AI Systems that scale that care.</i></p>
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemalmazrua/)
@@ -46,7 +46,7 @@ while alive:
     if patient_needs_help:
         be_a_nurse()          # Chapter 1
     if world_needs_smarter_healthcare:
-        design_agent()        # Chapter 2
+        design_AI()        # Chapter 2
         build_rag_pipeline()
         ship_to_production()  # ← we are here
     if model_is_overfitting:
