@@ -32,7 +32,7 @@
 
 <br>
 
-> *"Healthcare + AI is not the future. It's the present — and I'm building the agents that run it."*
+> *"Healthcare + AI is not the future. It's the present — and I'm building the AI Systems that run it."*
 
 </div>
 
